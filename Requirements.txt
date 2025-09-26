@@ -1,13 +1,9 @@
 streamlit
-firebase-admin==6.5.0
+firebase-admin
 pymongo
-pandas==2.2.2
-numpy
+deep-translator
 joblib
+numpy
+pandas
 scikit-learn
 openpyxl
-deep-translator
-
-
-
-
