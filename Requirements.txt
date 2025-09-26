@@ -1,0 +1,10 @@
+streamlit
+firebase-admin
+pymongo
+deep-translator
+joblib
+numpy
+pandas
+scikit-learn
+openpyxl
+
