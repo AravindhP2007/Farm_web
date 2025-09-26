@@ -1,5 +1,5 @@
 streamlit
-firebase_admin
+firebase-admin
 pymongo
 pandas
 numpy
@@ -7,5 +7,6 @@ joblib
 scikit-learn
 openpyxl
 deep-translator
+
 
 
