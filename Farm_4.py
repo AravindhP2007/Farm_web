@@ -1,6 +1,6 @@
 import streamlit as st
-import firebase-admin
-from firebase-admin import credentials, auth
+import firebase_admin
+from firebase_admin import credentials, auth
 from pymongo import MongoClient
 import os
 from deep_translator import GoogleTranslator
@@ -297,4 +297,5 @@ else:
             shops = db.vet_shops.find({"location": district})
             for shop in shops:
                 st.write(f"🏪 {shop['shop_name']} - {shop['phone']} ({shop['location']})")
+
 
